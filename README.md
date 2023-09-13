@@ -2,7 +2,7 @@
 
 <br />
 
-## Aplicação de linha do tempo com autenticação Oauth. Desenvolvida com React.js e Next.js
+## Aplicação de linha do tempo com autenticação Oauth
 
 - ### Setup da aplicação
     - **Back-end:** *Node.js*, *TypeScript*, *Fastify*, *ESLint*, *Prisma + SQLite*
